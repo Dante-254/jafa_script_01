@@ -1,0 +1,15 @@
+const x = 9
+console.log(x)
+let a = 10
+console.log(a)
+a += 19
+console.log(a)
+var myFirstNmae = "Dan"
+var mySecondNmae = 'Ndiritu'
+var mySirName = `Gicia`
+console.log(myFirstNmae, '\n' + mySecondNmae, mySirName)
+myStr = "Hello to a \"new\" world"
+console.log(myStr)
+
+
+
